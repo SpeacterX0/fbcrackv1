@@ -92,11 +92,8 @@ language badges:
 
 
 ```
-pkg update
-pkg upgrade
-pkg install git
-apt install python
-git clone https://github.com/SpeacterX0/fbcrackv1
-pip3 install requests
-cd fbcrackv1
-python speacterx.py
+git clone https://github.com/AzizKpln/Moriarty-Project
+cd Moriarty-Project
+chmod 755 install.sh
+bash install.sh
+
